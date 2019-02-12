@@ -1,0 +1,2 @@
+# OnlineStudyMaterialBank
+This platform  is intended to be a web based question paper and textbook sharing application which would allow students to access previous years’ question papers as well as textbooks across multiple disciplines and courses offered by the institute. This system is designed to be an application where students can upload and download question papers and textbooks. The uploaded material will be validated by an admin. This project aims to help students to find all the related resources under a single roof.
