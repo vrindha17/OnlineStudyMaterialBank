@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    width: 100%
+    left: 0px;
+}
+
+body {
+    margin: 0px;
+    background-color: aliceblue;
+    
+
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+.custom-container{
+
+       position: absolute;
+       top: 10%;
+       left: 10%;
+       padding-top: 62px;
+       padding-bottom: 40px;
+       border-radius: 10px;
+       padding-left: 10px;
+       padding-right: 20px;
+       width: 80%;
+       overflow: hidden;
+}

@@ -1,0 +1,23 @@
+
+.navbar-custom {
+    background-color:#111111;
+    color: white;
+    min-height: 40px;
+}
+.navbar-custom a{
+    text-decoration: none;
+    color: white;
+}
+
+.icon-bar {
+    background-color: white;
+}
+.navbar-heading:hover {
+	color: #ff3b3b;
+}
+#navbar-hello{
+    text-decoration: none;
+    padding-top: 15%;
+
+
+}

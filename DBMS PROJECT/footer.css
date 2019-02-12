@@ -1,0 +1,19 @@
+
+#footer {
+    color: white;
+    display: block;
+    min-height: 30px;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    background-color: #111111;
+    width: 100%;    
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-weight: 400;
+   
+}
